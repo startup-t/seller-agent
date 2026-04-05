@@ -1,1 +1,1 @@
-# seller-agent
+# project-omnilist
